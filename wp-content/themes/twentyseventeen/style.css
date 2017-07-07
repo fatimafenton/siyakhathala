@@ -1803,11 +1803,12 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 
 .panel-content {
 	position: relative;
+    padding-bottom: 0.5em;
+	padding-top: 1.75em;
 }
 
 .panel-content .wrap {
-	padding-bottom: 0.5em;
-	padding-top: 1.75em;
+  
 }
 
 /* Panel edit link */
@@ -3203,7 +3204,7 @@ object {
 	}
 
 	.page-one-column .panel-content .wrap {
-		max-width: 740px;
+		max-width: 1740px;
 	}
 
 	.panel-content .entry-header {
